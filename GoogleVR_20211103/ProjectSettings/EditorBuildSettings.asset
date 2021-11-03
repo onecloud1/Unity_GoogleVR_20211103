@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Modern Bedroom/Scene/VRDemo.unity
+    guid: 0f18860b70e2a414fb83e3c73784b8a1
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5a582c203ac5fdb4aa7ae5fd6387b854, type: 2}
